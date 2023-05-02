@@ -178,7 +178,7 @@ class _BmiCalcState extends State<BmiCalc> {
                           Text(
                             '$weight',
                             style: TextStyle(
-                                fontSize: 30, fontWeight: FontWeight.w600),
+                                fontSize: 25, fontWeight: FontWeight.w600),
                           ),
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,
